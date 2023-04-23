@@ -28,10 +28,10 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelneuper&show_icons=true&locale=en&layout=compact&theme=onedark" alt="michaelneuper" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelneuper&exclude_repo=dotfiles&show_icons=true&locale=en&layout=compact&theme=onedark" alt="michaelneuper" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelneuper&exclude_repo=dotfiles&show_icons=true&locale=en&theme=onedark" alt="michaelneuper" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelneuper&show_icons=true&locale=en&theme=onedark" alt="michaelneuper" /></p>
 
 ---
 
