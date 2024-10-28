@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/michaelneuper?template=classic&base.community=0&base.repositories=0&habits=1&rss=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&rss=false&rss.source=https%3A%2F%2Fmichaelneuper.com%2Findex.xml&rss.limit=3&config.timezone=Africa%2FJohannesburg)
+![Metrics](/github-metrics.svg)
