@@ -17,6 +17,5 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          plugin_notable: yes
           plugin_people: yes
-          plugin_people_types: stargazers
+          plugin_people_types: followers
